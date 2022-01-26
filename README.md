@@ -29,7 +29,7 @@ Furthermore, "optional extras" means that, if possible, the WebSockets protocol 
 * If you use the -- env-file option, python-dotenv will be installed.
 * PyYAML will be installed, allowing you to pass a.yaml file to --log-config if desired.
 
-### Creating Simple application Using Uvicorn:
+### Creating a Simple application Using Uvicorn:
 ```python
 import uvicorn
 async def app(scope, receive, send):
