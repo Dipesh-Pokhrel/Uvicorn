@@ -4,8 +4,9 @@
 Uvicorn is an extremely fast ASGI server implementation that makes use of uvloop and HTTP tools. 
 ASGI should contribute to the development of a Python web framework ecosystem that is highly competitive with Node and Go in terms of achieving high throughput in IO-bound contexts. It also supports HTTP/2 and WebSockets, which WSGI does not support.
 
-** Documentation**: [https://www.uvicorn.org](https://uvicorn.org)
-** Requirement**: Python 3.7+ (for python 3.6 support, install version 0.16.0.)
+**Documentation**: [https://www.uvicorn.org](https://uvicorn.org)
+
+**Requirement**: Python 3.7+ (for python 3.6 support, install version 0.16.0.)
 
 ### Install using pip:
 ```shell
